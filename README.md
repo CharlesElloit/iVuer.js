@@ -1,20 +1,9 @@
 <div align="center">
   <a href="https://github.com/webpack/webpack">
-    <img width="200" height="200" src="https://lh3.googleusercontent.com/eYdVbP_C1_IcVFa_MlE1CCvEqvqAgAh8lNUqnBNAWeRU6dOlik5iilXlpTJNb455ZV719w=s134" alt="iVuer.js Logo">
+    <img width="500" height="500" src="https://lh3.googleusercontent.com/eYdVbP_C1_IcVFa_MlE1CCvEqvqAgAh8lNUqnBNAWeRU6dOlik5iilXlpTJNb455ZV719w=s134" alt="iVuer.js Logo">
   </a>
   <br>
   <br>
-
-[![npm][npm]][npm-url]
-
-[![node][node]][node-url]
-[![deps][deps]][deps-url]
-[![tests][tests]][tests-url]
-[![builds][builds]][builds-url]
-[![builds2][builds2]][builds2-url]
-[![coverage][cover]][cover-url]
-[![licenses][licenses]][licenses-url]
-[![PR's welcome][prs]][prs-url]
 
   <br>
   <a href="https://dependabot.com/compatibility-score.html?dependency-name=webpack&package-manager=npm_and_yarn&new-version=latest">
