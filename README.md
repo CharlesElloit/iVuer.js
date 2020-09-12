@@ -6,12 +6,6 @@
   <br>
 
   <br>
-	<a href="https://packagephobia.com/result?p=webpack">
-		<img src="https://packagephobia.com/badge?p=webpack" alt="install size">
-	</a>
-	<a href="https://opencollective.com/webpack#backer">
-		<img src="https://opencollective.com/webpack/backers/badge.svg">
-	</a>
   <h1>iVuer.js</h1>
   <p>
    iVuer.js is Open Source Web FrameWork Which uses MVC (Model View Controller)
