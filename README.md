@@ -29,10 +29,6 @@
               <h3>Welcome to iVuer.js</h3>
             <p>iVuer.js is an Open Source MVC FromeWork build using JavaScript</p>
 
-            <style>
-            .logo {
-              animation: spin infinite 5s linear;
-
 </div>
 
   <br>
