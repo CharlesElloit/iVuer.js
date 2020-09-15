@@ -3,6 +3,7 @@ export default class Ivuerjs {
     this.routesList = routes;
   }
 
+  /*match url Function */
   matchRoutes(_route1, _route2) {
     if (_route1 === _route2) {
       return true;
