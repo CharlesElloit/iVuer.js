@@ -1,4 +1,4 @@
-<div style="font-family: arial; text-align: center; margin: 10%;">
+<div align="center" style="font-family: arial; text-align: center; margin: 10%;">
             <svg class="logo" width="100px" height="200px" viewBox="0 0 64 64" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
                 <desc>Created with Lunacy</desc>
                 <defs>
@@ -47,6 +47,9 @@
 
 </div>
 
-# iVuer.js
-
-<p>iVuer.js is Open Source Web FrameWork Which uses MVC (Model View Controller) Articture</p>
+  <br>
+  <h1>iVuer.js</h1>
+  <p>
+   iVuer.js is Open Source Web FrameWork Which uses MVC (Model View Controller)
+  </p>
+</div>
