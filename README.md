@@ -1,6 +1,5 @@
 <div align="center" style="font-family: arial; text-align: center; margin: 10%;">
             <svg class="logo" width="100px" height="200px" viewBox="0 0 64 64" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
-                <desc>Created with Lunacy</desc>
                 <defs>
                   <linearGradient x1="0.5" y1="-0.8068182" x2="0.5" y2="1.8547" id="gradient_1">
                     <stop offset="0" stop-color="#1A6DFF" />
